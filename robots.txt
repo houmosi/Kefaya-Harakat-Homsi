@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+
+# Host & Sitemaps for كفاية حركات حمصي - أسامة المحلاوي
+Host: https://elmahalawi.com
+Sitemap: https://www.google.com/search?q=https://elmahalawi.com/sitemap.xml
