@@ -1,0 +1,5 @@
+# robots.txt for Kefaya Harakat Homsi (elmahalawi.online)
+User-agent: *
+Allow: /
+
+Sitemap: https://www.google.com/search?q=https://elmahalawi.online/sitemap.xml
